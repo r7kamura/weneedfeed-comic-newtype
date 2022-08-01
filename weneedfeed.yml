@@ -8,7 +8,211 @@ selectors: &selectors
 title: コミックNewtype
 
 pages:
+  - id: aces_of_dragon
+    title: 龍空のエイシズ
+    url: https://comic.webnewtype.com/contents/aces_of_dragon/
+    <<: *selectors
+  - id: alice
+    title: 機械の国のアリス
+    url: https://comic.webnewtype.com/contents/alice/
+    <<: *selectors
+  - id: aruma
+    title: 少女型兵器は家族になりたい
+    url: https://comic.webnewtype.com/contents/aruma/
+    <<: *selectors
+  - id: bakeyawa
+    title: ばけもの夜話づくし
+    url: https://comic.webnewtype.com/contents/bakeyawa/
+    <<: *selectors
+  - id: catwraith
+    title: 猫妖傳
+    url: https://comic.webnewtype.com/contents/catwraith/
+    <<: *selectors
+  - id: cub
+    title: スーパーカブ
+    url: https://comic.webnewtype.com/contents/cub/
+    <<: *selectors
+  - id: denchi
+    title: 逆転世界ノ電池少女
+    url: https://comic.webnewtype.com/contents/denchi/
+    <<: *selectors
+  - id: derebare
+    title: 悪役令嬢のデレは俺だけにバレている
+    url: https://comic.webnewtype.com/contents/derebare/
+    <<: *selectors
+  - id: doruma
+    title: 残念妖精ドルマさん
+    url: https://comic.webnewtype.com/contents/doruma/
+    <<: *selectors
+  - id: eromanga
+    title: 脱稿するまでオチません
+    url: https://comic.webnewtype.com/contents/eromanga/
+    <<: *selectors
+  - id: foodcourtjk
+    title: フードコートで、また明日。
+    url: https://comic.webnewtype.com/contents/foodcourtjk/
+    <<: *selectors
+  - id: fuzoroi
+    title: 不揃いの連理
+    url: https://comic.webnewtype.com/contents/fuzoroi/
+    <<: *selectors
+  - id: geass_f
+    title: コードギアス 復活のルルーシュ
+    url: https://comic.webnewtype.com/contents/geass_f/
+    <<: *selectors
+  - id: gomori
+    title: しゃしゃごもり
+    url: https://comic.webnewtype.com/contents/gomori/
+    <<: *selectors
+  - id: gyaruhome
+    title: ギャルゲーマーに褒められたい
+    url: https://comic.webnewtype.com/contents/gyaruhome/
+    <<: *selectors
+  - id: hamekano
+    title: 破滅のカノジョ
+    url: https://comic.webnewtype.com/contents/hamekano/
+    <<: *selectors
+  - id: helenaandwolf
+    title: ヘレナとオオカミさん
+    url: https://comic.webnewtype.com/contents/helenaandwolf/
+    <<: *selectors
+  - id: imassc
+    title: アイドルマスター シャイニーカラーズ
+    url: https://comic.webnewtype.com/contents/imassc/
+    <<: *selectors
+  - id: inaka
+    title: 田舎の美少年
+    url: https://comic.webnewtype.com/contents/inaka/
+    <<: *selectors
+  - id: irinoku
+    title: 異世界帰りの英雄曰く
+    url: https://comic.webnewtype.com/contents/irinoku/
+    <<: *selectors
+  - id: joshikosei
+    title: 女子高生の無駄づかい
+    url: https://comic.webnewtype.com/contents/joshikosei/
+    <<: *selectors
+  - id: k_pandora
+    title: 紅殻のパンドラ
+    url: https://comic.webnewtype.com/contents/k_pandora/
+    <<: *selectors
+  - id: kagi
+    title: 合鍵くんと幸せごはん
+    url: https://comic.webnewtype.com/contents/kagi/
+    <<: *selectors
+  - id: kamisa
+    title: 神サー！
+    url: https://comic.webnewtype.com/contents/kamisa/
+    <<: *selectors
+  - id: karekano
+    title: カレとカノジョの選択
+    url: https://comic.webnewtype.com/contents/karekano/
+    <<: *selectors
+  - id: kata
+    title: 両親の借金を肩代わりしてもらう条件は日本一可愛い女子高生と一緒に暮らすことでした。
+    url: https://comic.webnewtype.com/contents/kata/
+    <<: *selectors
+  - id: kizuato
+    title: 少女たちの痕にくちづけを
+    url: https://comic.webnewtype.com/contents/kizuato/
+    <<: *selectors
+  - id: lgamom
+    title: 小さな紳士と山の化け物
+    url: https://comic.webnewtype.com/contents/lgamom/
+    <<: *selectors
+  - id: maji
+    title: マジックエアポート
+    url: https://comic.webnewtype.com/contents/maji/
+    <<: *selectors
+  - id: mentalout
+    title: とある科学の心理掌握
+    url: https://comic.webnewtype.com/contents/mentalout/
+    <<: *selectors
+  - id: momogumi
+    title: 桃組プラス戦記
+    url: https://comic.webnewtype.com/contents/momogumi/
+    <<: *selectors
+  - id: monthly
+    title: 毎月庭つき大家つき
+    url: https://comic.webnewtype.com/contents/monthly/
+    <<: *selectors
   - id: nabetama
     title: 鍋に弾丸を受けながら
     url: https://comic.webnewtype.com/contents/nabetama/
+    <<: *selectors
+  - id: onigawara
+    title: ヤンキーの鬼ヶ原さんが僕にだけ過保護すぎる
+    url: https://comic.webnewtype.com/contents/onigawara/
+    <<: *selectors
+  - id: otoginouta
+    title: 音戯の譜～CHRONICLE～
+    url: https://comic.webnewtype.com/contents/otoginouta/
+    <<: *selectors
+  - id: otouge
+    title: こえる大峠さん
+    url: https://comic.webnewtype.com/contents/otouge/
+    <<: *selectors
+  - id: rei
+    title: スーパーカブRei
+    url: https://comic.webnewtype.com/contents/rei/
+    <<: *selectors
+  - id: rinnch
+    title: りんちゃんは据え膳したい
+    url: https://comic.webnewtype.com/contents/rinnch/
+    <<: *selectors
+  - id: sewayaki
+    title: 世話やきキツネの仙狐さん
+    url: https://comic.webnewtype.com/contents/sewayaki/
+    <<: *selectors
+  - id: shinobuden_plus
+    title: ニニンがシノブ伝ぷらす
+    url: https://comic.webnewtype.com/contents/shinobuden_plus/
+    <<: *selectors
+  - id: starblazers
+    title: 宇宙戦艦ヤマトNEXT　スターブレイザーズΛ
+    url: https://comic.webnewtype.com/contents/starblazers/
+    <<: *selectors
+  - id: tandb2
+    title: TIGER & BUNNY 2
+    url: https://comic.webnewtype.com/contents/tandb2/
+    <<: *selectors
+  - id: togabito
+    title: 咎人の刻印
+    url: https://comic.webnewtype.com/contents/togabito/
+    <<: *selectors
+  - id: uchu_mondai
+    title: 宇宙とかと比べたらちっぽけな問題ですが
+    url: https://comic.webnewtype.com/contents/uchu_mondai/
+    <<: *selectors
+  - id: watatsuyo
+    title: 私より強い男と結婚したいの
+    url: https://comic.webnewtype.com/contents/watatsuyo/
+    <<: *selectors
+  - id: witchs_marriage
+    title: 魔女ノ結婚
+    url: https://comic.webnewtype.com/contents/witchs_marriage/
+    <<: *selectors
+  - id: worldofours
+    title: 殤否 僕らの世界のつくりかた
+    url: https://comic.webnewtype.com/contents/worldofours/
+    <<: *selectors
+  - id: yankee
+    title: ケンランバンカラ
+    url: https://comic.webnewtype.com/contents/yankee/
+    <<: *selectors
+  - id: yurigohan
+    title: わたしのお腹の責任取って！
+    url: https://comic.webnewtype.com/contents/yurigohan/
+    <<: *selectors
+  - id: yuurei
+    title: 幽霊船クロニクル
+    url: https://comic.webnewtype.com/contents/yuurei/
+    <<: *selectors
+  - id: zetsu
+    title: ぜっしゃか！‐私立四ツ輪女子学院絶滅危惧車学科‐
+    url: https://comic.webnewtype.com/contents/zetsu/
+    <<: *selectors
+  - id: zone
+    title: ZONE-00
+    url: https://comic.webnewtype.com/contents/zone/
     <<: *selectors
