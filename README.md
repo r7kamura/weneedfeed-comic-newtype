@@ -1,4 +1,4 @@
-# weneedfeed-comit-newtype
+# weneedfeed-comic-newtype
 
 [![](https://github.com/r7kamura/weneedfeed-comic-newtype/workflows/publish/badge.svg)](https://github.com/r7kamura/weneedfeed-comic-newtype/actions?query=workflow%3Apublish)
 
