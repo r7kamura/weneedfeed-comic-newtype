@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Fate/Grand Order 英霊食聞録]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000016/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/2000016.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:12:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第五話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000016/episode/2030/</link>
+      
+        <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[フランス王妃とお菓子]]></description>
+      <content:encoded><![CDATA[フランス王妃とお菓子]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000016/episode/2030/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第一話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000016/episode/82/</link>
+      
+        <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[英国式カレー]]></description>
+      <content:encoded><![CDATA[英国式カレー]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000016/episode/82/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

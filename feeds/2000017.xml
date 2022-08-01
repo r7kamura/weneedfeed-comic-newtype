@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Fate/Grand Order フロム ロストベルト]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000017/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/2000017.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:12:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第15話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000017/episode/2089/</link>
+      
+        <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[ストレイシープの墓標]]></description>
+      <content:encoded><![CDATA[ストレイシープの墓標]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/2089/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第14話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000017/episode/2031/</link>
+      
+        <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[彼が戴くただひとつ]]></description>
+      <content:encoded><![CDATA[彼が戴くただひとつ]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/2031/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第13話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000017/episode/1912/</link>
+      
+        <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[永遠のこどもたち]]></description>
+      <content:encoded><![CDATA[永遠のこどもたち]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/1912/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第12話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000017/episode/1849/</link>
+      
+        <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[言えなかった誓い]]></description>
+      <content:encoded><![CDATA[言えなかった誓い]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/1849/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第11話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000017/episode/1766/</link>
+      
+        <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[神様をさがして]]></description>
+      <content:encoded><![CDATA[神様をさがして]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/1766/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

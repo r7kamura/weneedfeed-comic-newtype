@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Fate/stay night [Heaven’s Feel]]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000006/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/2000006.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:57 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[#25-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000006/episode/1990/</link>
+      
+        <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[7日目／シネマ①]]></description>
+      <content:encoded><![CDATA[7日目／シネマ①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000006/episode/1990/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[#24-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000006/episode/1989/</link>
+      
+        <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[7日目／衝撃のマーボー②]]></description>
+      <content:encoded><![CDATA[7日目／衝撃のマーボー②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000006/episode/1989/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[#24-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000006/episode/1896/</link>
+      
+        <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[7日目／衝撃のマーボー①]]></description>
+      <content:encoded><![CDATA[7日目／衝撃のマーボー①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000006/episode/1896/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[#23-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000006/episode/1895/</link>
+      
+        <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[7日目／ふたり②]]></description>
+      <content:encoded><![CDATA[7日目／ふたり②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000006/episode/1895/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

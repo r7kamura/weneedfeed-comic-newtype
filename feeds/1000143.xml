@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000143/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/1000143.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[最終話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000143/episode/6432/</link>
+      
+        <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[Chapter.４黄昏mareless]]></description>
+      <content:encoded><![CDATA[Chapter.４黄昏mareless]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/6432/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[１４-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000143/episode/6226/</link>
+      
+        <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[Chapter.４黄昏mareless]]></description>
+      <content:encoded><![CDATA[Chapter.４黄昏mareless]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/6226/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[１４-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000143/episode/6100/</link>
+      
+        <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[Chapter.４黄昏mareless]]></description>
+      <content:encoded><![CDATA[Chapter.４黄昏mareless]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/6100/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[１１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000143/episode/5741/</link>
+      
+        <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[Chapter.３夢を持たずして生きる]]></description>
+      <content:encoded><![CDATA[Chapter.３夢を持たずして生きる]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/5741/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

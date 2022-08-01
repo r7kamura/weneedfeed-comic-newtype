@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[針子の乙女]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000125/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/1000125.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第１６話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/6572/</link>
+      
+        <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[そのリボンからはよい気配を感じます②]]></description>
+      <content:encoded><![CDATA[そのリボンからはよい気配を感じます②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/6572/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１６話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/6504/</link>
+      
+        <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[そのリボンからはよい気配を感じます①]]></description>
+      <content:encoded><![CDATA[そのリボンからはよい気配を感じます①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/6504/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１５話-４]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/6424/</link>
+      
+        <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[会えてよかった④]]></description>
+      <content:encoded><![CDATA[会えてよかった④]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/6424/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１５話-３]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/6423/</link>
+      
+        <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[会えてよかった③]]></description>
+      <content:encoded><![CDATA[会えてよかった③]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/6423/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１５話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/6331/</link>
+      
+        <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[会えてよかった②]]></description>
+      <content:encoded><![CDATA[会えてよかった②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/6331/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

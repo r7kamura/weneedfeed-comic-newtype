@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[フェイト／育ステラ]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000085/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/1000085.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:39 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[休載告知]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2196/</link>
+      
+        <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[しばらく休載いたします。]]></description>
+      <content:encoded><![CDATA[しばらく休載いたします。]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000085/episode/2196/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[番外編]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2195/</link>
+      
+        <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[育ステラのエクストラ]]></description>
+      <content:encoded><![CDATA[育ステラのエクストラ]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000085/episode/2195/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１９話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2092/</link>
+      
+        <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[アルテラマンの憂鬱]]></description>
+      <content:encoded><![CDATA[アルテラマンの憂鬱]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000085/episode/2092/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１８話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2091/</link>
+      
+        <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[夢の中でもちもち]]></description>
+      <content:encoded><![CDATA[夢の中でもちもち]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000085/episode/2091/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１７話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2002/</link>
+      
+        <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[温めた]]></description>
+      <content:encoded><![CDATA[温めた]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000085/episode/2002/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

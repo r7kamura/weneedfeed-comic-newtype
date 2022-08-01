@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[CANAAN]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000026/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/2000026.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:12:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000026/episode/690/</link>
+      
+        <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[約束]]></description>
+      <content:encoded><![CDATA[約束]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000026/episode/690/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000026/episode/689/</link>
+      
+        <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[カナン]]></description>
+      <content:encoded><![CDATA[カナン]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000026/episode/689/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

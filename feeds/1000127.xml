@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[北条うららの恋愛小説お書きなさい！]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000127/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/1000127.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編６]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000127/episode/4557/</link>
+      
+        <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000127/episode/4557/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[特別編４]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000127/episode/4492/</link>
+      
+        <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000127/episode/4492/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[特別編３]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000127/episode/4491/</link>
+      
+        <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000127/episode/4491/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

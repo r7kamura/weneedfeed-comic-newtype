@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[異世界落語]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000084/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/1000084.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:39 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[最終話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000084/episode/4712/</link>
+      
+        <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000084/episode/4712/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[最終話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000084/episode/4670/</link>
+      
+        <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000084/episode/4670/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第二十一話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000084/episode/4544/</link>
+      
+        <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000084/episode/4544/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第二十話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000084/episode/4412/</link>
+      
+        <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000084/episode/4412/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[一福のちょっと一服⑪]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000084/episode/4400/</link>
+      
+        <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[死神]]></description>
+      <content:encoded><![CDATA[死神]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000084/episode/4400/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

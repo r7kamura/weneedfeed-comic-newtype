@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Fate/Zero]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000002/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/2000002.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第71話-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000002/episode/2100/</link>
+      
+        <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[【公開期限2022年8月18日(木)まで】]]></description>
+      <content:encoded><![CDATA[【公開期限2022年8月18日(木)まで】]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000002/episode/2100/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第70話-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000002/episode/2084/</link>
+      
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[【公開期限2022年8月11日(木)まで】]]></description>
+      <content:encoded><![CDATA[【公開期限2022年8月11日(木)まで】]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000002/episode/2084/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第70話-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000002/episode/2083/</link>
+      
+        <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[【公開期限2022年8月4日(木)まで】]]></description>
+      <content:encoded><![CDATA[【公開期限2022年8月4日(木)まで】]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000002/episode/2083/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

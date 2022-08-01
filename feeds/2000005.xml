@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Fate/stay night]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000005/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/2000005.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:56 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第54話-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000005/episode/2086/</link>
+      
+        <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[覚醒②　【公開期限2022年8月14日(日)まで】]]></description>
+      <content:encoded><![CDATA[覚醒②　【公開期限2022年8月14日(日)まで】]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000005/episode/2086/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第54話-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000005/episode/2085/</link>
+      
+        <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[覚醒①　【公開期限2022年8月7日(日)まで】]]></description>
+      <content:encoded><![CDATA[覚醒①　【公開期限2022年8月7日(日)まで】]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000005/episode/2085/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第53話-4]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000005/episode/2051/</link>
+      
+        <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[狂戦士④　【公開期限2022年7月31日(日)まで】]]></description>
+      <content:encoded><![CDATA[狂戦士④　【公開期限2022年7月31日(日)まで】]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000005/episode/2051/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

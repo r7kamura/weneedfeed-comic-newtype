@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[美木さん、大好きです！]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000142/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/1000142.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第２２話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000142/episode/5638/</link>
+      
+        <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/5638/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第２１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000142/episode/5533/</link>
+      
+        <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/5533/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第２０話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000142/episode/5532/</link>
+      
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/5532/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１９話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000142/episode/5517/</link>
+      
+        <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/5517/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

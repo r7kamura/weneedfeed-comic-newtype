@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[コハエースEX]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000028/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/2000028.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:12:02 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[チャプター3]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000028/episode/818/</link>
+      
+        <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[魔術の英霊キャスター襲来！！]]></description>
+      <content:encoded><![CDATA[魔術の英霊キャスター襲来！！]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000028/episode/818/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[チャプター2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000028/episode/817/</link>
+      
+        <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[剣の英霊セイバー召喚！！]]></description>
+      <content:encoded><![CDATA[剣の英霊セイバー召喚！！]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000028/episode/817/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[チャプター1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000028/episode/816/</link>
+      
+        <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[新生コハエース]]></description>
+      <content:encoded><![CDATA[新生コハエース]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000028/episode/816/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

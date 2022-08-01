@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[ねこへん ～ねこと編集～]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000148/</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-comic-newtype/feeds/1000148.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 01 Aug 2022 01:11:53 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第３話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4783/</link>
+      
+        <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000148/episode/4783/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第２話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4762/</link>
+      
+        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000148/episode/4762/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4760/</link>
+      
+        <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000148/episode/4760/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
