@@ -1,0 +1,294 @@
+selectors: &selectors
+  item_selector: div.mainContent li.table-view-cell:not(.yudo):has(p.text-bold)
+  item_description_selector: h3
+  item_link_selector: a
+  item_time_selector: span.updated-date
+  item_title_selector: p.text-bold
+
+title: webエース
+
+pages:
+  - id: "1000002"
+    title: 文豪ストレイドッグス わん！
+    url: https://web-ace.jp/youngaceup/contents/1000002/
+    <<: *selectors
+  - id: "1000003"
+    title: 五十嵐くんと中原くん
+    url: https://web-ace.jp/youngaceup/contents/1000003/
+    <<: *selectors
+  - id: "1000010"
+    title: 衛宮さんちの今日のごはん
+    url: https://web-ace.jp/youngaceup/contents/1000010/
+    <<: *selectors
+  - id: "1000012"
+    title: 公爵令嬢の嗜み
+    url: https://web-ace.jp/youngaceup/contents/1000012/
+    <<: *selectors
+  - id: "1000013"
+    title: 蜘蛛ですが、なにか？
+    url: https://web-ace.jp/youngaceup/contents/1000013/
+    <<: *selectors
+  - id: "1000014"
+    title: マヌケなFPSプレイヤーが異世界へ落ちた場合
+    url: https://web-ace.jp/youngaceup/contents/1000014/
+    <<: *selectors
+  - id: "1000015"
+    title: 賢者の孫
+    url: https://web-ace.jp/youngaceup/contents/1000015/
+    <<: *selectors
+  - id: "1000029"
+    title: 服を着るならこんなふうに
+    url: https://web-ace.jp/youngaceup/contents/1000029/
+    <<: *selectors
+  - id: "1000046"
+    title: 異世界建国記
+    url: https://web-ace.jp/youngaceup/contents/1000046/
+    <<: *selectors
+  - id: "1000048"
+    title: 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？
+    url: https://web-ace.jp/youngaceup/contents/1000048/
+    <<: *selectors
+  - id: "1000049"
+    title: 回復術士のやり直し
+    url: https://web-ace.jp/youngaceup/contents/1000049/
+    <<: *selectors
+  - id: "1000052"
+    title: うぽって SISTERS!!
+    url: https://web-ace.jp/youngaceup/contents/1000052/
+    <<: *selectors
+  - id: "1000060"
+    title: 文豪ストレイドッグス外伝 綾辻行人 VS. 京極夏彦
+    url: https://web-ace.jp/youngaceup/contents/1000060/
+    <<: *selectors
+  - id: "1000064"
+    title: パシリな僕と恋する番長さん
+    url: https://web-ace.jp/youngaceup/contents/1000064/
+    <<: *selectors
+  - id: "1000072"
+    title: 文豪ストレイドッグス【武装探偵社YAUP支部】
+    url: https://web-ace.jp/youngaceup/contents/1000072/
+    <<: *selectors
+  - id: "1000075"
+    title: 私の拳をうけとめて！
+    url: https://web-ace.jp/youngaceup/contents/1000075/
+    <<: *selectors
+  - id: "1000081"
+    title: そらのおとしもの【リバイバル連載】
+    url: https://web-ace.jp/youngaceup/contents/1000081/
+    <<: *selectors
+  - id: "1000082"
+    title: 文豪ストレイドッグス DEAD APPLE
+    url: https://web-ace.jp/youngaceup/contents/1000082/
+    <<: *selectors
+  - id: "1000084"
+    title: 異世界落語
+    url: https://web-ace.jp/youngaceup/contents/1000084/
+    <<: *selectors
+  - id: "1000085"
+    title: フェイト／育ステラ
+    url: https://web-ace.jp/youngaceup/contents/1000085/
+    <<: *selectors
+  - id: "1000086"
+    title: ヘテロゲニア リンギスティコ ～異種族言語学入門～
+    url: https://web-ace.jp/youngaceup/contents/1000086/
+    <<: *selectors
+  - id: "1000091"
+    title: 勇者、辞めます
+    url: https://web-ace.jp/youngaceup/contents/1000091/
+    <<: *selectors
+  - id: "1000105"
+    title: 賢者の孫 Extra Story
+    url: https://web-ace.jp/youngaceup/contents/1000105/
+    <<: *selectors
+  - id: "1000107"
+    title: 特殊性癖教室へようこそ
+    url: https://web-ace.jp/youngaceup/contents/1000107/
+    <<: *selectors
+  - id: "1000117"
+    title: 世界最高の暗殺者、異世界貴族に転生する
+    url: https://web-ace.jp/youngaceup/contents/1000117/
+    <<: *selectors
+  - id: "1000122"
+    title: 賢者の孫SP
+    url: https://web-ace.jp/youngaceup/contents/1000122/
+    <<: *selectors
+  - id: "1000123"
+    title: 蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常
+    url: https://web-ace.jp/youngaceup/contents/1000123/
+    <<: *selectors
+  - id: "1000124"
+    title: 帰ってください！ 阿久津さん
+    url: https://web-ace.jp/youngaceup/contents/1000124/
+    <<: *selectors
+  - id: "1000125"
+    title: 針子の乙女
+    url: https://web-ace.jp/youngaceup/contents/1000125/
+    <<: *selectors
+  - id: "1000126"
+    title: ゼロスキルの料理番
+    url: https://web-ace.jp/youngaceup/contents/1000126/
+    <<: *selectors
+  - id: "1000127"
+    title: 北条うららの恋愛小説お書きなさい！
+    url: https://web-ace.jp/youngaceup/contents/1000127/
+    <<: *selectors
+  - id: "1000128"
+    title: 悪役令嬢？ いいえ、極悪令嬢ですわ
+    url: https://web-ace.jp/youngaceup/contents/1000128/
+    <<: *selectors
+  - id: "1000129"
+    title: 賢者の孫SS
+    url: https://web-ace.jp/youngaceup/contents/1000129/
+    <<: *selectors
+  - id: "1000132"
+    title: 村づくりゲームのNPCが生身の人間としか思えない
+    url: https://web-ace.jp/youngaceup/contents/1000132/
+    <<: *selectors
+  - id: "1000133"
+    title: マジカル☆エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
+    url: https://web-ace.jp/youngaceup/contents/1000133/
+    <<: *selectors
+  - id: "1000134"
+    title: 年上エリート女騎士が僕の前でだけ可愛い
+    url: https://web-ace.jp/youngaceup/contents/1000134/
+    <<: *selectors
+  - id: "1000136"
+    title: 三大陸英雄記
+    url: https://web-ace.jp/youngaceup/contents/1000136/
+    <<: *selectors
+  - id: "1000137"
+    title: 最強出涸らし皇子の暗躍帝位争い
+    url: https://web-ace.jp/youngaceup/contents/1000137/
+    <<: *selectors
+  - id: "1000138"
+    title: 麗子の風儀 悪役令嬢と呼ばれていますが、ただの貧乏娘です
+    url: https://web-ace.jp/youngaceup/contents/1000138/
+    <<: *selectors
+  - id: "1000139"
+    title: 一億年ボタンを連打した俺は、気付いたら最強になっていた ～落第剣士の学院無双～
+    url: https://web-ace.jp/youngaceup/contents/1000139/
+    <<: *selectors
+  - id: "1000140"
+    title: 旅ぎゃる！日本じゅーだんチャリきこー
+    url: https://web-ace.jp/youngaceup/contents/1000140/
+    <<: *selectors
+  - id: "1000141"
+    title: 野球場でいただきます
+    url: https://web-ace.jp/youngaceup/contents/1000141/
+    <<: *selectors
+  - id: "1000142"
+    title: 美木さん、大好きです！
+    url: https://web-ace.jp/youngaceup/contents/1000142/
+    <<: *selectors
+  - id: "1000143"
+    title: 黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-
+    url: https://web-ace.jp/youngaceup/contents/1000143/
+    <<: *selectors
+  - id: "1000144"
+    title: 君は死ねない灰かぶりの魔女
+    url: https://web-ace.jp/youngaceup/contents/1000144/
+    <<: *selectors
+  - id: "1000145"
+    title: 書いて欲しけりゃコレを喰え
+    url: https://web-ace.jp/youngaceup/contents/1000145/
+    <<: *selectors
+  - id: "1000146"
+    title: 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。
+    url: https://web-ace.jp/youngaceup/contents/1000146/
+    <<: *selectors
+  - id: "1000147"
+    title: ひぐらしのなく頃に 業
+    url: https://web-ace.jp/youngaceup/contents/1000147/
+    <<: *selectors
+  - id: "1000148"
+    title: ねこへん ～ねこと編集～
+    url: https://web-ace.jp/youngaceup/contents/1000148/
+    <<: *selectors
+  - id: "1000149"
+    title: マリー様をわからせたい！
+    url: https://web-ace.jp/youngaceup/contents/1000149/
+    <<: *selectors
+  - id: "2000001"
+    title: Fate/Apocrypha
+    url: https://web-ace.jp/tmca/contents/2000001/
+    <<: *selectors
+  - id: "2000002"
+    title: Fate/Zero
+    url: https://web-ace.jp/tmca/contents/2000002/
+    <<: *selectors
+  - id: "2000003"
+    title: Fate/Grand Order -Epic of Remnant-  亜種特異点II 伝承地底世界 アガルタ アガルタの女
+    url: https://web-ace.jp/tmca/contents/2000003/
+    <<: *selectors
+  - id: "2000004"
+    title: フェイト／エクストラ CCC FoxTail
+    url: https://web-ace.jp/tmca/contents/2000004/
+    <<: *selectors
+  - id: "2000005"
+    title: Fate/stay night
+    url: https://web-ace.jp/tmca/contents/2000005/
+    <<: *selectors
+  - id: "2000006"
+    title: Fate/stay night [Heaven’s Feel]
+    url: https://web-ace.jp/tmca/contents/2000006/
+    <<: *selectors
+  - id: "2000007"
+    title: MELTY BLOOD
+    url: https://web-ace.jp/tmca/contents/2000007/
+    <<: *selectors
+  - id: "2000009"
+    title: TYPE-MOON学園 ちびちゅき！
+    url: https://web-ace.jp/tmca/contents/2000009/
+    <<: *selectors
+  - id: "2000010"
+    title: フェイト／エクストラ
+    url: https://web-ace.jp/tmca/contents/2000010/
+    <<: *selectors
+  - id: "2000012"
+    title: ロード・エルメロイII世の事件簿
+    url: https://web-ace.jp/tmca/contents/2000012/
+    <<: *selectors
+  - id: "2000013"
+    title: 真月譚 月姫
+    url: https://web-ace.jp/tmca/contents/2000013/
+    <<: *selectors
+  - id: "2000014"
+    title: 帝都聖杯奇譚 Fate/type Redline
+    url: https://web-ace.jp/tmca/contents/2000014/
+    <<: *selectors
+  - id: "2000015"
+    title: Fate/Grand Order -Epic of Remnant- 亜種特異点EX 深海電脳楽土 SE.RA.PH
+    url: https://web-ace.jp/tmca/contents/2000015/
+    <<: *selectors
+  - id: "2000016"
+    title: Fate/Grand Order 英霊食聞録
+    url: https://web-ace.jp/tmca/contents/2000016/
+    <<: *selectors
+  - id: "2000017"
+    title: Fate/Grand Order フロム ロストベルト
+    url: https://web-ace.jp/tmca/contents/2000017/
+    <<: *selectors
+  - id: "2000022"
+    title: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!
+    url: https://web-ace.jp/tmca/contents/2000022/
+    <<: *selectors
+  - id: "2000026"
+    title: CANAAN
+    url: https://web-ace.jp/tmca/contents/2000026/
+    <<: *selectors
+  - id: "2000027"
+    title: Fate/Grand Order 藤丸立香はわからない
+    url: https://web-ace.jp/tmca/contents/2000027/
+    <<: *selectors
+  - id: "2000028"
+    title: コハエースEX
+    url: https://web-ace.jp/tmca/contents/2000028/
+    <<: *selectors
+  - id: "2000030"
+    title: Fate/Grand Order コミックアラカルト PLUS! SP 対決編！
+    url: https://web-ace.jp/tmca/contents/2000030/
+    <<: *selectors
+  - id: "2000031"
+    title: コハエースXP
+    url: https://web-ace.jp/tmca/contents/2000031/
+    <<: *selectors

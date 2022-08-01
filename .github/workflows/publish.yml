@@ -1,0 +1,26 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 15 * * *"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/github-script@v6
+        id: github-script
+        with:
+          script: return process.env.GITHUB_REPOSITORY.split('/')[1]
+          result-encoding: string
+      - uses: r7kamura/weneedfeed-action@v3
+        with:
+          base_url: https://${{ github.repository_owner }}.github.io/${{ steps.github-script.outputs.result }}
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: output
