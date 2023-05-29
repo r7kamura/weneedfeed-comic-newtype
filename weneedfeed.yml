@@ -1,5 +1,5 @@
 selectors: &selectors
-  item_selector: "#episodeList li"
+  item_selector: "#episodeListDsc li"
   item_image_selector: img
   item_link_selector: a
   item_time_selector: .date01
