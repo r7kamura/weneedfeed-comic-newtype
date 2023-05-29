@@ -6,36 +6,27 @@ on:
       - main
   schedule:
     - cron: "0 15 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  id-token: write
-  pages: write
-
-concurrency:
-  cancel-in-progress: true
-  group: pages
 
 jobs:
-  publish:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/github-script@v6
-        id: github-script
-        with:
-          script: return process.env.GITHUB_REPOSITORY.split('/')[1]
-          result-encoding: string
       - uses: r7kamura/weneedfeed-action@v3
         with:
-          base_url: https://${{ github.repository_owner }}.github.io/${{ steps.github-script.outputs.result }}
-      - uses: actions/configure-pages@v1
+          base_url: https://r7kamura.github.io/weneedfeed-comic-newtype
       - uses: actions/upload-pages-artifact@v1
         with:
           path: output
-      - uses: actions/deploy-pages@main
+  deploy:
+    needs: build
+    permissions:
+      id-token: write
+      pages: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/deploy-pages@v2
         id: deployment
