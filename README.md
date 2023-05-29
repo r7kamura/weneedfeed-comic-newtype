@@ -4,5 +4,5 @@
 
 The source of [r7kamura.github.io/weneedfeed-comic-newtype/](https://r7kamura.github.io/weneedfeed-comic-newtype/).
 
-- This site provides RSS feeds for each of the comics on [Comic Newtype](https://comic.webnewtype.com/).
+- This site provides RSS feeds for each of the comics on [comic.webnewtype.com](https://comic.webnewtype.com/).
 - All feeds are daily updated at 00:00 JST (15:00 GMT).
