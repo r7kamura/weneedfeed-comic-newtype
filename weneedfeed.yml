@@ -1,9 +1,9 @@
 selectors: &selectors
-  item_selector: "#episodeListDsc li"
+  item_selector: "#episodeListDsc > li"
   item_image_selector: img
   item_link_selector: a
-  item_time_selector: .date01
-  item_title_selector: .description
+  item_time_selector: .detail__txt--date
+  item_title_selector: h2
 
 title: コミックNewtype
 
