@@ -28,6 +28,10 @@ pages:
     title: 猫妖傳
     url: https://comic.webnewtype.com/contents/catwraith/
     <<: *selectors
+  - id: coherentlight
+    title: アイドルマスター シャイニーカラーズ コヒーレントライト
+    url: https://comic.webnewtype.com/contents/coherentlight/
+    <<: *selectors
   - id: cub
     title: スーパーカブ
     url: https://comic.webnewtype.com/contents/cub/
