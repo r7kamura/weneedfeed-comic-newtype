@@ -15,7 +15,7 @@ jobs:
       - uses: r7kamura/weneedfeed-action@v3
         with:
           base_url: https://r7kamura.github.io/weneedfeed-comic-newtype
-      - uses: actions/upload-pages-artifact@v1
+      - uses: actions/upload-artifact@v4
         with:
           path: output
   deploy:
